@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 This is a test for --no-ff merge.
 Git is a free software ...
+This line is for testing git branch "dev".
