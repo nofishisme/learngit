@@ -8,3 +8,4 @@ This is a test for --no-ff merge.
 Git is a free software ...
 This line is for testing git branch "dev".
 This line is for testing conflict pushing.
+This line is for testing git branch "dev" and pushed by "nofish@ubuntu:~/learngit$" 
